@@ -1,0 +1,7 @@
+pandas
+pytest
+
+
+python -m pytest -q
+
+git push -u origin main
